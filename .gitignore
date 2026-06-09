@@ -75,3 +75,4 @@ data/**
 
 # Translation cache
 .translation-cache.json
+.graphify/
