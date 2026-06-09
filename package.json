@@ -77,7 +77,7 @@
     "yaml": "^2.4.0"
   },
   "devDependencies": {
-    "@anthropic-ai/claude-agent-sdk": "^0.1.77",
+    "@anthropic-ai/claude-agent-sdk": "^0.3.169",
     "@commitlint/cli": "^20.4.0",
     "@commitlint/config-conventional": "^20.0.0",
     "@semantic-release/changelog": "^6.0.3",
