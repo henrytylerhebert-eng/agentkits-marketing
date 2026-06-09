@@ -1,0 +1,9 @@
+!.*
+!/.gitignore
+/_bmad/
+/.agents
+/.claude
+/.github
+/.pawbytes
+*.zip
+skills-lock.json
