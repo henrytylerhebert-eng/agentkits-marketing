@@ -79,7 +79,7 @@
   "devDependencies": {
     "@anthropic-ai/claude-agent-sdk": "^0.1.77",
     "@commitlint/cli": "^20.4.0",
-    "@commitlint/config-conventional": "^20.0.0",
+    "@commitlint/config-conventional": "^21.0.2",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/exec": "^7.1.0",
